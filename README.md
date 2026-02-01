@@ -11,7 +11,7 @@
 
 *Don't predict prices. Quantify risk. Make better decisions.*
 
-[🚀 Live Demo](#https://veer-maharana-pratap-88.onrender.com/)
+[🚀 Live Demo](https://veer-maharana-pratap-88.onrender.com/)
 
 </div>
 
@@ -374,6 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PS-17 Hackathon** for the opportunity
 
 ---
+
 
 
 
