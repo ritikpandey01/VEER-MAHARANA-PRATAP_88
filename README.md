@@ -3,9 +3,6 @@
 **AI-Powered Stock Downside Risk Scoring System**  
 Built for PS-17 Hackathon | Team BumbleTech
 
-![Project Banner](https://via.placeholder.com/1200x400/0E1117/00FF41?text=Market+Risk+Predictor+–+PS-17)  
-*(Replace with actual screenshot/banner if you have one)*
-
 ## 🚀 Overview
 
 This is an **interactive Streamlit web application** that helps traders and investors quickly assess **downside risk** in stocks using:
@@ -120,4 +117,5 @@ Not financial advice — For educational & research purpose only
 Some features (real-time quotes) may require Alpha Vantage API key (currently commented)
 Model training happens on-the-fly → needs at least ~50–100 candles for decent results
 Intraday data limited by yfinance (sometimes 7 days max for 1-min data)
+
 
