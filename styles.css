@@ -1,0 +1,59 @@
+/* Pattern analysis box */
+.pattern-box {
+    background: linear-gradient(135deg, #1E1E1E, #2C2C2C);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+.pattern-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Pattern title */
+.pattern-title {
+    color: #00FFFF; /* Cyan for titles */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+/* Pattern description */
+.pattern-description {
+    color: #FFFFFF;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+/* Pattern metrics */
+.pattern-metric {
+    color: #FFD700; /* Gold for metrics */
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+/* Key levels box */
+.key-levels-box {
+    background: linear-gradient(135deg, #1E1E1E, #2C2C2C);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Key levels title */
+.key-levels-title {
+    color: #00FFFF; /* Cyan for titles */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+/* Key levels text */
+.key-levels-text {
+    color: #FFFFFF;
+    font-size: 1rem;
+}
