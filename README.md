@@ -11,7 +11,7 @@
 
 *Don't predict prices. Quantify risk. Make better decisions.*
 
-[🚀 Live Demo](#-quick-start) | [📊 Features](#-features) | [🎥 Screenshots](#-screenshots) | [📖 Documentation](#-how-it-works)
+[🚀 Live Demo](#-quick-start) 
 
 </div>
 
@@ -384,3 +384,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/market-risk-predictor/issues) · [Request Feature](https://github.com/yourusername/market-risk-predictor/issues)
 
 </div>
+
