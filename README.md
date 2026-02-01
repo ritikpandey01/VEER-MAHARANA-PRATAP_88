@@ -375,13 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
-### ⭐ If you found this helpful, give it a star!
 
-**Made with ❤️ by Team BumbleTech**
 
-[Report Bug](https://github.com/yourusername/market-risk-predictor/issues) · [Request Feature](https://github.com/yourusername/market-risk-predictor/issues)
-
-</div>
 
