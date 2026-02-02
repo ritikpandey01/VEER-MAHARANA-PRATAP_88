@@ -335,30 +335,6 @@ market-risk-predictor/
 
 ---
 
-## 👥 Team BumbleTech
-
-<table>
-<tr>
-<td align="center">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Your Name</b></sub><br />
-<sub>ML Engineer</sub>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Team Member 2</b></sub><br />
-<sub>Data Scientist</sub>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br />
-<sub><b>Team Member 3</b></sub><br />
-<sub>Full Stack Dev</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -374,6 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PS-17 Hackathon** for the opportunity
 
 ---
+
 
 
 
